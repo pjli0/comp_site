@@ -14,16 +14,25 @@ Using survey data from COMP110, we used different aspects of those surveyed and 
 ## Visual Analysis
 
 ### 1. Perception of Value by Major
-As seen in the chart below, the perceived value remains high across most majors, though sample sizes for non-CS students are smaller.
-![Major vs Value](major_vs_value.png)
+I will start my analysis by looking at how "Perceived Value" differs across different majors. If students in non-CS disciplines find the course less valuable, it supports my idea that we need real-world examples earlier to bridge that gap.
+
+<div style="display: block; width: 100%;">
+  ![Major vs Value](major_vs_value.png)
+</div>
 
 ### 2. Distribution of Interest
-This count plot shows that most students fall into the mid-to-high range of interest regarding interdisciplinary connections.
-![Interest Distribution](interest_vs_count.png)
+I will create a bar chart that shows the relationship between interest in connections and course value. This helps me see if students are actually asking for real-world content, or if few people care.
+
+<div style="display: block; width: 100%;">
+  ![Interest Distribution](interest_vs_count.png)
+</div>
 
 ### 3. Correlation: Interest vs. Value
-The regression line indicates a clear positive trend: as interest in connections increases, so does the perceived value of the course.
-![Interest vs Value Regression](interest_vs_value.png)
+I will create a box plot that shows if there is a link between interest and value. I want to see if students with a high interest in connections also give the coures a high value score.
+
+<div style="display: block; width: 100%;">
+  ![Interest vs Value Regression](interest_vs_value.png)
+</div>
 
 ## Conclusion
 
